@@ -40,7 +40,7 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <div class="section-title">
                         <p class="fs-5 fw-medium fst-italic text-primary">About Us</p>
-                        <h1 class="display-6">The success history of TEA House in 25 years</h1>
+                        <h1 class="display-6">The success history of perfumes</h1>
                     </div>
                     <div class="mb-4 row g-3">
                         <div class="col-sm-4">
@@ -48,7 +48,7 @@
                                 alt="">
                         </div>
                         <div class="col-sm-8">
-                            <h5>Our tea is one of the most popular drinks in the world</h5>
+                            <h5>Our perfume is one of the most popular perfumes in the world</h5>
                             <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet
                                 diam et eos. Clita erat ipsum et lorem et sit</p>
                         </div>
@@ -56,7 +56,7 @@
                     <div class="mb-4 border-top"></div>
                     <div class="row g-3">
                         <div class="col-sm-8">
-                            <h5>Daily use of a cup of tea is good for your health</h5>
+                            <h5>Daily use of a bit of perfume spray is good for your health</h5>
                             <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet
                                 diam et eos. Clita erat ipsum et lorem et sit</p>
                         </div>

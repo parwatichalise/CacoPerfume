@@ -19,7 +19,7 @@
         <div class="container">
             <div class="mx-auto text-center section-title wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
                 <p class="fs-5 fw-medium fst-italic text-primary">Online Store</p>
-                <h1 class="display-6">Want to stay healthy? Choose tea taste</h1>
+                <h1 class="display-6">Want to stay fragrant? Choose your perfume</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -33,7 +33,7 @@
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
                             </div>
-                            <h4 class="mb-3">Nature close tea</h4>
+                            <h4 class="mb-3">Floral & Feminine Perfumes</h4>
                             <p>Aliqu diam amet diam et eos. Clita erat ipsum lorem erat ipsum lorem sit sed</p>
                             <h4 class="text-primary">$19.00</h4>
                         </div>
@@ -56,7 +56,7 @@
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
                             </div>
-                            <h4 class="mb-3">Green tea tulsi</h4>
+                            <h4 class="mb-3">Luxury & Elegant Perfumes</h4>
                             <p>Aliqu diam amet diam et eos. Clita erat ipsum lorem erat ipsum lorem sit sed</p>
                             <h4 class="text-primary">$19.00</h4>
                         </div>
@@ -79,7 +79,7 @@
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
                             </div>
-                            <h4 class="mb-3">Instant tea premix</h4>
+                            <h4 class="mb-3">Woody & Masculine Perfumes</h4>
                             <p>Aliqu diam amet diam et eos. Clita erat ipsum lorem erat ipsum lorem sit sed</p>
                             <h4 class="text-primary">$19.00</h4>
                         </div>
